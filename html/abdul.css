@@ -1,0 +1,47 @@
+body{
+    margin:0px
+}
+
+#nigga{
+    border-radius:100%;
+}
+ul{
+    list-style-type: none;
+    text-decoration: none;
+    padding:0px;
+    margin:20px;
+
+}
+.ishan{
+    text-align:center;
+    text-decoration:none;
+ background-color: ;
+    
+}
+#nigga1{
+    float:right;
+    color:white;
+    font-size: 50 px;
+    background-color: blueviolet;
+    margin:20px;
+    padding:10px;
+
+    
+}
+h1{
+   font-size: 100px;
+    text-align:center;
+    text-decoration: solid;
+    color: rgb(255, 255, 255);
+    
+}
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRveF2boK7VRjHJ8j12yiy1KijY9zxwta8kQ&s");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  p{
+    color:aliceblue;
+    font-size: 30px;
+  }

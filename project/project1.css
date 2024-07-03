@@ -1,0 +1,147 @@
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding:0px 50px;
+    box-shadow: 3px 3px 3px rgb(248, 219, 219);
+}
+
+#menu,
+#dentytech,
+#btn ul{
+    display:flex;
+    align-items:center;
+    list-style-type: none;
+}
+
+#menu h4{
+    border: 2px solid rgb(80, 52, 52);
+    padding:7px;
+    border-radius:10px;
+
+}
+
+#menu i{
+    border: 2px solid rgb(80, 52, 52);
+    padding:5px;
+    border-radius: 50%;
+
+}
+
+#dentytech i{
+    border: 2px solid red;
+    padding:7px;
+    border-radius:50%;
+    background-color: red;
+
+}
+
+#ishan1{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left:12px ;
+    padding-top:5px ;
+    padding-bottom:5px ;
+    padding-right:12px ;
+    margin-right: 1.5px;
+    background-color: rgb(233, 222, 222);
+}
+#ishan2{
+    border: 2px solid red;
+    color:white;
+    background-color: red;
+    border-radius: 10px;
+    padding:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 1.5px;
+}
+
+
+#basnet1{
+    font-size:80px;
+    font-weight: 150;
+    text-align: center;
+    position: absolute;
+    top:50%;
+    right:50%;
+    transform:translate(+50%,-50%)
+}
+
+#nigga1{
+    position: absolute;
+    top:50%;
+    right:50%;
+    transform:translate(+50%,-10%);
+    rotate: -45deg;
+    
+}
+#nigga2{
+    position: absolute;
+    top:50%;
+    right:50%;
+    transform:translate(+50%,-15%);
+    rotate:-35deg;
+}
+#nigga3{
+    position: absolute;
+    top:50%;
+    right:50%;
+    transform:translate(+50%,-20%);
+    rotate:-25deg;
+}
+#nigga4{
+    position: absolute;
+    top:50%;
+    right:50%;
+    transform:translate(+50%,-25%);
+    rotate:-15deg;
+}
+
+#footer1 {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: left;
+    margin: 30px;
+    text-decoration: solid;
+    /* font-size:; */
+}
+
+#insta{
+    position: fixed;
+    right: 180px;
+    bottom: 50px;
+    border:1px solid red;
+    color:white;
+    background-color: red;
+    padding:7px;
+    border-radius: 100%;
+}
+#yt{
+    position: fixed;
+    right: 140px;
+    bottom: 50px;
+    border:1px solid red;
+    color:white;
+    background-color: red;
+    padding:7px;
+    border-radius: 100%;
+}
+#fb{
+    position: fixed;
+    right: 100px;
+    bottom: 50px;
+    border:1px solid red;
+    color:white;
+    background-color: red;
+    padding:7px;
+    border-radius: 100%;
+}
+
+h3{
+    position:fixed;
+    right: 75px;
+    bottom: 0px;
+}
